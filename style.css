@@ -222,7 +222,6 @@ footer{
     font-size: .8rem;
     margin: .5rem 0 0 0;
     text-align: center;
-    display: none;
 }
 footer a{
     color: var(--very-dark-violet);
